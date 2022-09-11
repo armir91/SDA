@@ -1,0 +1,15 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\bin\Debug\net6.0\AdvancedFeaturesPresentation.exe
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\bin\Debug\net6.0\AdvancedFeaturesPresentation.deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\bin\Debug\net6.0\AdvancedFeaturesPresentation.runtimeconfig.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\bin\Debug\net6.0\AdvancedFeaturesPresentation.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\bin\Debug\net6.0\AdvancedFeaturesPresentation.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\obj\Debug\net6.0\AdvancedFeaturesPresentation.csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\obj\Debug\net6.0\AdvancedFeaturesPresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\obj\Debug\net6.0\AdvancedFeaturesPresentation.AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\obj\Debug\net6.0\AdvancedFeaturesPresentation.AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\obj\Debug\net6.0\AdvancedFeaturesPresentation.csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\obj\Debug\net6.0\AdvancedFeaturesPresentation.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\obj\Debug\net6.0\refint\AdvancedFeaturesPresentation.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\obj\Debug\net6.0\AdvancedFeaturesPresentation.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\obj\Debug\net6.0\AdvancedFeaturesPresentation.genruntimeconfig.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesPresentation\obj\Debug\net6.0\ref\AdvancedFeaturesPresentation.dll
