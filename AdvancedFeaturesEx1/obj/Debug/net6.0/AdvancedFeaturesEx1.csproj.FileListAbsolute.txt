@@ -1,0 +1,15 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\bin\Debug\net6.0\AdvancedFeaturesEx1.exe
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\bin\Debug\net6.0\AdvancedFeaturesEx1.deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\bin\Debug\net6.0\AdvancedFeaturesEx1.runtimeconfig.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\bin\Debug\net6.0\AdvancedFeaturesEx1.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\bin\Debug\net6.0\AdvancedFeaturesEx1.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\obj\Debug\net6.0\AdvancedFeaturesEx1.csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\obj\Debug\net6.0\AdvancedFeaturesEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\obj\Debug\net6.0\AdvancedFeaturesEx1.AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\obj\Debug\net6.0\AdvancedFeaturesEx1.AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\obj\Debug\net6.0\AdvancedFeaturesEx1.csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\obj\Debug\net6.0\AdvancedFeaturesEx1.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\obj\Debug\net6.0\refint\AdvancedFeaturesEx1.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\obj\Debug\net6.0\AdvancedFeaturesEx1.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\obj\Debug\net6.0\AdvancedFeaturesEx1.genruntimeconfig.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesEx1\obj\Debug\net6.0\ref\AdvancedFeaturesEx1.dll
