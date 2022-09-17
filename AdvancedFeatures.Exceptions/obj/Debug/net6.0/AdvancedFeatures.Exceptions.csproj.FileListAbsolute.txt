@@ -1,0 +1,15 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\bin\Debug\net6.0\AdvancedFeatures.Exceptions.exe
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\bin\Debug\net6.0\AdvancedFeatures.Exceptions.deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\bin\Debug\net6.0\AdvancedFeatures.Exceptions.runtimeconfig.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\bin\Debug\net6.0\AdvancedFeatures.Exceptions.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\bin\Debug\net6.0\AdvancedFeatures.Exceptions.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\obj\Debug\net6.0\AdvancedFeatures.Exceptions.csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\obj\Debug\net6.0\AdvancedFeatures.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\obj\Debug\net6.0\AdvancedFeatures.Exceptions.AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\obj\Debug\net6.0\AdvancedFeatures.Exceptions.AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\obj\Debug\net6.0\AdvancedFeatures.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\obj\Debug\net6.0\AdvancedFeatures.Exceptions.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\obj\Debug\net6.0\refint\AdvancedFeatures.Exceptions.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\obj\Debug\net6.0\AdvancedFeatures.Exceptions.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\obj\Debug\net6.0\AdvancedFeatures.Exceptions.genruntimeconfig.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Exceptions\obj\Debug\net6.0\ref\AdvancedFeatures.Exceptions.dll
