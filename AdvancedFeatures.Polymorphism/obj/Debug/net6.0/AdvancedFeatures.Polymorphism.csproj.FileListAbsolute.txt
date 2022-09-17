@@ -1,0 +1,15 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\bin\Debug\net6.0\AdvancedFeatures.Polymorphism.exe
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\bin\Debug\net6.0\AdvancedFeatures.Polymorphism.deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\bin\Debug\net6.0\AdvancedFeatures.Polymorphism.runtimeconfig.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\bin\Debug\net6.0\AdvancedFeatures.Polymorphism.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\bin\Debug\net6.0\AdvancedFeatures.Polymorphism.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\obj\Debug\net6.0\AdvancedFeatures.Polymorphism.csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\obj\Debug\net6.0\AdvancedFeatures.Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\obj\Debug\net6.0\AdvancedFeatures.Polymorphism.AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\obj\Debug\net6.0\AdvancedFeatures.Polymorphism.AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\obj\Debug\net6.0\AdvancedFeatures.Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\obj\Debug\net6.0\AdvancedFeatures.Polymorphism.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\obj\Debug\net6.0\refint\AdvancedFeatures.Polymorphism.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\obj\Debug\net6.0\AdvancedFeatures.Polymorphism.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\obj\Debug\net6.0\AdvancedFeatures.Polymorphism.genruntimeconfig.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.Polymorphism\obj\Debug\net6.0\ref\AdvancedFeatures.Polymorphism.dll

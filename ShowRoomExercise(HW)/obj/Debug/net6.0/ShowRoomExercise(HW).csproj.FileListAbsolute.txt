@@ -1,0 +1,15 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\bin\Debug\net6.0\ShowRoomExercise(HW).exe
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\bin\Debug\net6.0\ShowRoomExercise(HW).deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\bin\Debug\net6.0\ShowRoomExercise(HW).runtimeconfig.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\bin\Debug\net6.0\ShowRoomExercise(HW).dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\bin\Debug\net6.0\ShowRoomExercise(HW).pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\obj\Debug\net6.0\ShowRoomExercise(HW).csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\obj\Debug\net6.0\ShowRoomExercise(HW).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\obj\Debug\net6.0\ShowRoomExercise(HW).AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\obj\Debug\net6.0\ShowRoomExercise(HW).AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\obj\Debug\net6.0\ShowRoomExercise(HW).csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\obj\Debug\net6.0\ShowRoomExercise(HW).dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\obj\Debug\net6.0\refint\ShowRoomExercise(HW).dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\obj\Debug\net6.0\ShowRoomExercise(HW).pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\obj\Debug\net6.0\ShowRoomExercise(HW).genruntimeconfig.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\ShowRoomExercise(HW)\obj\Debug\net6.0\ref\ShowRoomExercise(HW).dll

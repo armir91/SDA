@@ -1,0 +1,15 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\bin\Debug\net6.0\EngineExercise.exe
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\bin\Debug\net6.0\EngineExercise.deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\bin\Debug\net6.0\EngineExercise.runtimeconfig.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\bin\Debug\net6.0\EngineExercise.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\bin\Debug\net6.0\EngineExercise.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\obj\Debug\net6.0\EngineExercise.csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\obj\Debug\net6.0\EngineExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\obj\Debug\net6.0\EngineExercise.AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\obj\Debug\net6.0\EngineExercise.AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\obj\Debug\net6.0\EngineExercise.csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\obj\Debug\net6.0\EngineExercise.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\obj\Debug\net6.0\refint\EngineExercise.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\obj\Debug\net6.0\EngineExercise.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\obj\Debug\net6.0\EngineExercise.genruntimeconfig.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\EngineExercise\obj\Debug\net6.0\ref\EngineExercise.dll
