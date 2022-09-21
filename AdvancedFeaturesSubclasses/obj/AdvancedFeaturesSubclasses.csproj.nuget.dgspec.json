@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeaturesSubclasses\\AdvancedFeaturesSubclasses.csproj": {}
+    "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeaturesSubclasses\\AdvancedFeaturesSubclasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeaturesSubclasses\\AdvancedFeaturesSubclasses.csproj": {
+    "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeaturesSubclasses\\AdvancedFeaturesSubclasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeaturesSubclasses\\AdvancedFeaturesSubclasses.csproj",
+        "projectUniqueName": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeaturesSubclasses\\AdvancedFeaturesSubclasses.csproj",
         "projectName": "AdvancedFeaturesSubclasses",
-        "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeaturesSubclasses\\AdvancedFeaturesSubclasses.csproj",
-        "packagesPath": "C:\\Users\\armir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeaturesSubclasses\\obj\\",
+        "projectPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeaturesSubclasses\\AdvancedFeaturesSubclasses.csproj",
+        "packagesPath": "C:\\Users\\Armir Keta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeaturesSubclasses\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\armir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Armir Keta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
