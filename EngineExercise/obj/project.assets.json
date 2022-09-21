@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Armir Keta\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\armir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\EngineExercise\\EngineExercise.csproj",
+      "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\EngineExercise\\EngineExercise.csproj",
       "projectName": "EngineExercise",
-      "projectPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\EngineExercise\\EngineExercise.csproj",
-      "packagesPath": "C:\\Users\\Armir Keta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\EngineExercise\\obj\\",
+      "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\EngineExercise\\EngineExercise.csproj",
+      "packagesPath": "C:\\Users\\armir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\EngineExercise\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Armir Keta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\armir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

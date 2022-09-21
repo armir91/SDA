@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Exceptions\\AdvancedFeatures.Exceptions.csproj": {}
+    "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Exceptions\\AdvancedFeatures.Exceptions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Exceptions\\AdvancedFeatures.Exceptions.csproj": {
+    "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Exceptions\\AdvancedFeatures.Exceptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Exceptions\\AdvancedFeatures.Exceptions.csproj",
+        "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Exceptions\\AdvancedFeatures.Exceptions.csproj",
         "projectName": "AdvancedFeatures.Exceptions",
-        "projectPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Exceptions\\AdvancedFeatures.Exceptions.csproj",
-        "packagesPath": "C:\\Users\\Armir Keta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Exceptions\\obj\\",
+        "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Exceptions\\AdvancedFeatures.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\armir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Exceptions\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Armir Keta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\armir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

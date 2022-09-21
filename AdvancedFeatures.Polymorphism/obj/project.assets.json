@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Armir Keta\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\armir\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Polymorphism\\AdvancedFeatures.Polymorphism.csproj",
+      "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Polymorphism\\AdvancedFeatures.Polymorphism.csproj",
       "projectName": "AdvancedFeatures.Polymorphism",
-      "projectPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Polymorphism\\AdvancedFeatures.Polymorphism.csproj",
-      "packagesPath": "C:\\Users\\Armir Keta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Polymorphism\\obj\\",
+      "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Polymorphism\\AdvancedFeatures.Polymorphism.csproj",
+      "packagesPath": "C:\\Users\\armir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Polymorphism\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Armir Keta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\armir\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

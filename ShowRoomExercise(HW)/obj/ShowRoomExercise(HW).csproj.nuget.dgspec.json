@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\ShowRoomExercise(HW)\\ShowRoomExercise(HW).csproj": {}
+    "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\ShowRoomExercise(HW)\\ShowRoomExercise(HW).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\ShowRoomExercise(HW)\\ShowRoomExercise(HW).csproj": {
+    "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\ShowRoomExercise(HW)\\ShowRoomExercise(HW).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\ShowRoomExercise(HW)\\ShowRoomExercise(HW).csproj",
+        "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\ShowRoomExercise(HW)\\ShowRoomExercise(HW).csproj",
         "projectName": "ShowRoomExercise(HW)",
-        "projectPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\ShowRoomExercise(HW)\\ShowRoomExercise(HW).csproj",
-        "packagesPath": "C:\\Users\\Armir Keta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\ShowRoomExercise(HW)\\obj\\",
+        "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\ShowRoomExercise(HW)\\ShowRoomExercise(HW).csproj",
+        "packagesPath": "C:\\Users\\armir\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\ShowRoomExercise(HW)\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Armir Keta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\armir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
