@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\armir\\.nuget\\packages\\": {}
+    "C:\\Users\\Armir Keta\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeaturesPresentation\\AdvancedFeaturesPresentation.csproj",
+      "projectUniqueName": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeaturesPresentation\\AdvancedFeaturesPresentation.csproj",
       "projectName": "AdvancedFeaturesPresentation",
-      "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeaturesPresentation\\AdvancedFeaturesPresentation.csproj",
-      "packagesPath": "C:\\Users\\armir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeaturesPresentation\\obj\\",
+      "projectPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeaturesPresentation\\AdvancedFeaturesPresentation.csproj",
+      "packagesPath": "C:\\Users\\Armir Keta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeaturesPresentation\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\armir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Armir Keta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

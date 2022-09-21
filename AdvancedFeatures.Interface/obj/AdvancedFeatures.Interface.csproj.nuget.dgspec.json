@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Interface\\AdvancedFeatures.Interface.csproj": {}
+    "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Interface\\AdvancedFeatures.Interface.csproj": {}
   },
   "projects": {
-    "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Interface\\AdvancedFeatures.Interface.csproj": {
+    "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Interface\\AdvancedFeatures.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Interface\\AdvancedFeatures.Interface.csproj",
+        "projectUniqueName": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Interface\\AdvancedFeatures.Interface.csproj",
         "projectName": "AdvancedFeatures.Interface",
-        "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Interface\\AdvancedFeatures.Interface.csproj",
-        "packagesPath": "C:\\Users\\armir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\AdvancedFeatures.Interface\\obj\\",
+        "projectPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Interface\\AdvancedFeatures.Interface.csproj",
+        "packagesPath": "C:\\Users\\Armir Keta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Armir Keta\\Desktop\\sdaProjects\\mySdaProjects\\AdvancedFeatures.Interface\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\armir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Armir Keta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
