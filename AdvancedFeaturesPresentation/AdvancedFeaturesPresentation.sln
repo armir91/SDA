@@ -13,11 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedFeatures.Interface"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedFeatures.Exceptions", "..\AdvancedFeatures.Exceptions\AdvancedFeatures.Exceptions.csproj", "{266A8055-7BCE-4DC1-9CBC-52F89DFD13E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedFeatures.Polymorphism", "..\AdvancedFeatures.Polymorphism\AdvancedFeatures.Polymorphism.csproj", "{9E5C2467-8BF3-4FD6-A979-57F7A97873DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedFeatures.Polymorphism", "..\AdvancedFeatures.Polymorphism\AdvancedFeatures.Polymorphism.csproj", "{9E5C2467-8BF3-4FD6-A979-57F7A97873DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineExercise", "..\EngineExercise\EngineExercise.csproj", "{F05FE21E-7529-4E6F-BFCF-23EDDE4C5FED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EngineExercise", "..\EngineExercise\EngineExercise.csproj", "{F05FE21E-7529-4E6F-BFCF-23EDDE4C5FED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowRoomExercise(HW)", "..\ShowRoomExercise(HW)\ShowRoomExercise(HW).csproj", "{ADC961E8-B80A-4EBC-B8E5-F540FF13B8E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowRoomExercise(HW)", "..\ShowRoomExercise(HW)\ShowRoomExercise(HW).csproj", "{ADC961E8-B80A-4EBC-B8E5-F540FF13B8E0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedFeaturesGenerics", "..\AdvancedFeaturesGenerics\AdvancedFeaturesGenerics.csproj", "{45788D02-A08C-4F8B-A0C3-77F7040E9241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2Exercise", "..\Task2Exercise\Task2Exercise.csproj", "{2804D768-4413-44B4-95D8-285DEA90289C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.Exercise", "..\Task4.Exercise\Task4.Exercise.csproj", "{FA45DF96-5706-4D15-8225-1701E3EB9ECC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{ADC961E8-B80A-4EBC-B8E5-F540FF13B8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADC961E8-B80A-4EBC-B8E5-F540FF13B8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADC961E8-B80A-4EBC-B8E5-F540FF13B8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45788D02-A08C-4F8B-A0C3-77F7040E9241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45788D02-A08C-4F8B-A0C3-77F7040E9241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45788D02-A08C-4F8B-A0C3-77F7040E9241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45788D02-A08C-4F8B-A0C3-77F7040E9241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2804D768-4413-44B4-95D8-285DEA90289C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2804D768-4413-44B4-95D8-285DEA90289C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2804D768-4413-44B4-95D8-285DEA90289C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2804D768-4413-44B4-95D8-285DEA90289C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA45DF96-5706-4D15-8225-1701E3EB9ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA45DF96-5706-4D15-8225-1701E3EB9ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA45DF96-5706-4D15-8225-1701E3EB9ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA45DF96-5706-4D15-8225-1701E3EB9ECC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

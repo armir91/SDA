@@ -1,0 +1,15 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\bin\Debug\net6.0\AdvancedFeaturesGenerics.exe
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\bin\Debug\net6.0\AdvancedFeaturesGenerics.deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\bin\Debug\net6.0\AdvancedFeaturesGenerics.runtimeconfig.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\bin\Debug\net6.0\AdvancedFeaturesGenerics.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\bin\Debug\net6.0\AdvancedFeaturesGenerics.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\obj\Debug\net6.0\AdvancedFeaturesGenerics.csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\obj\Debug\net6.0\AdvancedFeaturesGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\obj\Debug\net6.0\AdvancedFeaturesGenerics.AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\obj\Debug\net6.0\AdvancedFeaturesGenerics.AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\obj\Debug\net6.0\AdvancedFeaturesGenerics.csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\obj\Debug\net6.0\AdvancedFeaturesGenerics.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\obj\Debug\net6.0\refint\AdvancedFeaturesGenerics.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\obj\Debug\net6.0\AdvancedFeaturesGenerics.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\obj\Debug\net6.0\AdvancedFeaturesGenerics.genruntimeconfig.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesGenerics\obj\Debug\net6.0\ref\AdvancedFeaturesGenerics.dll
