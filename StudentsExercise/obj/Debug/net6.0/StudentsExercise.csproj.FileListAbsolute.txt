@@ -1,0 +1,15 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\bin\Debug\net6.0\StudentsExercise.exe
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\bin\Debug\net6.0\StudentsExercise.deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\bin\Debug\net6.0\StudentsExercise.runtimeconfig.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\bin\Debug\net6.0\StudentsExercise.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\bin\Debug\net6.0\StudentsExercise.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\obj\Debug\net6.0\StudentsExercise.csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\obj\Debug\net6.0\StudentsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\obj\Debug\net6.0\StudentsExercise.AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\obj\Debug\net6.0\StudentsExercise.AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\obj\Debug\net6.0\StudentsExercise.csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\obj\Debug\net6.0\StudentsExercise.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\obj\Debug\net6.0\refint\StudentsExercise.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\obj\Debug\net6.0\StudentsExercise.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\obj\Debug\net6.0\StudentsExercise.genruntimeconfig.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\StudentsExercise\obj\Debug\net6.0\ref\StudentsExercise.dll
