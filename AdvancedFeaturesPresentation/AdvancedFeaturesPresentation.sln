@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoAlbum", "..\PhotoAlbum
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsExercise", "..\StudentsExercise\StudentsExercise.csproj", "{4BF9C131-14BB-422C-995F-AD96E708B6A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedFeatures.AsynchronusExample", "..\AdvancedFeatures.AsynchronusExample\AdvancedFeatures.AsynchronusExample.csproj", "{2670A115-8395-42D0-A126-DFF640F57B46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvancedFeatures.AsynchronusExample", "..\AdvancedFeatures.AsynchronusExample\AdvancedFeatures.AsynchronusExample.csproj", "{2670A115-8395-42D0-A126-DFF640F57B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advan.Feat.Exerc.Task4", "..\Advan.Feat.Exerc.Task4\Advan.Feat.Exerc.Task4.csproj", "{72BCA82E-0DEA-4146-96C3-5BFB1E1854BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{2670A115-8395-42D0-A126-DFF640F57B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2670A115-8395-42D0-A126-DFF640F57B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2670A115-8395-42D0-A126-DFF640F57B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BCA82E-0DEA-4146-96C3-5BFB1E1854BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BCA82E-0DEA-4146-96C3-5BFB1E1854BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BCA82E-0DEA-4146-96C3-5BFB1E1854BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BCA82E-0DEA-4146-96C3-5BFB1E1854BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
