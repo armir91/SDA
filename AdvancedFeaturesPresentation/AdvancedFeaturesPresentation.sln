@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShowRoomExercise(HW)", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoAlbum", "..\PhotoAlbum\PhotoAlbum.csproj", "{EE0E26B3-8FA4-4999-8822-B6342768AC8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsExercise", "..\StudentsExercise\StudentsExercise.csproj", "{4BF9C131-14BB-422C-995F-AD96E708B6A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsExercise", "..\StudentsExercise\StudentsExercise.csproj", "{4BF9C131-14BB-422C-995F-AD96E708B6A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvancedFeatures.AsynchronusExample", "..\AdvancedFeatures.AsynchronusExample\AdvancedFeatures.AsynchronusExample.csproj", "{2670A115-8395-42D0-A126-DFF640F57B46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{4BF9C131-14BB-422C-995F-AD96E708B6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BF9C131-14BB-422C-995F-AD96E708B6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BF9C131-14BB-422C-995F-AD96E708B6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2670A115-8395-42D0-A126-DFF640F57B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2670A115-8395-42D0-A126-DFF640F57B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2670A115-8395-42D0-A126-DFF640F57B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2670A115-8395-42D0-A126-DFF640F57B46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

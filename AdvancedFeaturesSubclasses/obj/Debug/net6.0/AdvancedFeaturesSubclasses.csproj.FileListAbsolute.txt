@@ -1,0 +1,15 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\bin\Debug\net6.0\AdvancedFeaturesSubclasses.exe
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\bin\Debug\net6.0\AdvancedFeaturesSubclasses.deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\bin\Debug\net6.0\AdvancedFeaturesSubclasses.runtimeconfig.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\bin\Debug\net6.0\AdvancedFeaturesSubclasses.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\bin\Debug\net6.0\AdvancedFeaturesSubclasses.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\obj\Debug\net6.0\AdvancedFeaturesSubclasses.csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\obj\Debug\net6.0\AdvancedFeaturesSubclasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\obj\Debug\net6.0\AdvancedFeaturesSubclasses.AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\obj\Debug\net6.0\AdvancedFeaturesSubclasses.AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\obj\Debug\net6.0\AdvancedFeaturesSubclasses.csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\obj\Debug\net6.0\AdvancedFeaturesSubclasses.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\obj\Debug\net6.0\refint\AdvancedFeaturesSubclasses.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\obj\Debug\net6.0\AdvancedFeaturesSubclasses.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\obj\Debug\net6.0\AdvancedFeaturesSubclasses.genruntimeconfig.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeaturesSubclasses\obj\Debug\net6.0\ref\AdvancedFeaturesSubclasses.dll

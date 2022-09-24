@@ -1,0 +1,15 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\bin\Debug\net6.0\AdvancedFeatures.AsynchronusExample.exe
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\bin\Debug\net6.0\AdvancedFeatures.AsynchronusExample.deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\bin\Debug\net6.0\AdvancedFeatures.AsynchronusExample.runtimeconfig.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\bin\Debug\net6.0\AdvancedFeatures.AsynchronusExample.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\bin\Debug\net6.0\AdvancedFeatures.AsynchronusExample.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\obj\Debug\net6.0\AdvancedFeatures.AsynchronusExample.csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\obj\Debug\net6.0\AdvancedFeatures.AsynchronusExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\obj\Debug\net6.0\AdvancedFeatures.AsynchronusExample.AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\obj\Debug\net6.0\AdvancedFeatures.AsynchronusExample.AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\obj\Debug\net6.0\AdvancedFeatures.AsynchronusExample.csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\obj\Debug\net6.0\AdvancedFeatures.AsynchronusExample.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\obj\Debug\net6.0\refint\AdvancedFeatures.AsynchronusExample.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\obj\Debug\net6.0\AdvancedFeatures.AsynchronusExample.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\obj\Debug\net6.0\AdvancedFeatures.AsynchronusExample.genruntimeconfig.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\AdvancedFeatures.AsynchronusExample\obj\Debug\net6.0\ref\AdvancedFeatures.AsynchronusExample.dll
