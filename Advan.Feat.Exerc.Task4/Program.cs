@@ -16,7 +16,7 @@ internal class Program
         {
             Console.WriteLine("Contents of the file found are: \n");
             //Pass the file path and file name to the StreamReader constructor
-            StreamReader fileContent = new StreamReader("C:\\Users\\armir\\Desktop\\myfolder\\armir.txt");
+            StreamReader fileContent = new StreamReader(@"C:\Users\armir\Desktop\myfolder\armir.txt");
             //Read the first line of text
             string line = fileContent.ReadLine();
             //Continue to read until you reach end of file
@@ -34,20 +34,20 @@ internal class Program
 
             Console.WriteLine($"The total number of lines in this file at the moment are: {lineCount0}");
 
-            StreamWriter sw = new StreamWriter("C:\\Users\\armir\\Desktop\\myfolder\\armir.txt", true);
+            StreamWriter fileWrite = new StreamWriter("C:\\Users\\armir\\Desktop\\myfolder\\armir.txt", true);
 
             do
             {
                 //Write a line of text
-                sw.WriteLine("This is the 1st added line!");
+                fileWrite.WriteLine("This is the 1st added line!");
                 Console.WriteLine();
                 //Write a second line of text
-                sw.WriteLine("This is the 2nd added line!");
+                fileWrite.WriteLine("This is the 2nd added line!");
 
             }
             while (line != null);
             
-            sw.Close();
+            fileWrite.Close();
             _ = Console.ReadLine();
 
 
