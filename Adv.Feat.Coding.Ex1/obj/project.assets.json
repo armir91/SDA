@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Adv.Feat.Coding.Ex1\\Adv.Feat.Coding.Ex1.csproj",
-      "projectName": "Adv.Feat.Coding.Ex1",
-      "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Adv.Feat.Coding.Ex1\\Adv.Feat.Coding.Ex1.csproj",
+      "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Adv.Feat.Coding.Ex1\\Advnaced.Features.Coding.Exercise1.csproj",
+      "projectName": "Advnaced.Features.Coding.Exercise1",
+      "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Adv.Feat.Coding.Ex1\\Advnaced.Features.Coding.Exercise1.csproj",
       "packagesPath": "C:\\Users\\armir\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Adv.Feat.Coding.Ex1\\obj\\",
       "projectStyle": "PackageReference",
