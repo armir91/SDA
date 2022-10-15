@@ -15,56 +15,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="004308d4-ecfe-4624-87d3-63e97fe5ecb6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Exceptions/obj/AdvancedFeatures.Exceptions.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Exceptions/obj/AdvancedFeatures.Exceptions.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Exceptions/obj/Debug/net6.0/AdvancedFeatures.Exceptions.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Exceptions/obj/Debug/net6.0/AdvancedFeatures.Exceptions.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Exceptions/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Exceptions/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Exceptions/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Exceptions/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Interface/obj/AdvancedFeatures.Interface.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Interface/obj/AdvancedFeatures.Interface.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Interface/obj/Debug/net6.0/AdvancedFeatures.Interface.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Interface/obj/Debug/net6.0/AdvancedFeatures.Interface.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Interface/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Interface/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Interface/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Interface/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Polymorphism/obj/AdvancedFeatures.Polymorphism.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Polymorphism/obj/AdvancedFeatures.Polymorphism.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Polymorphism/obj/Debug/net6.0/AdvancedFeatures.Polymorphism.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Polymorphism/obj/Debug/net6.0/AdvancedFeatures.Polymorphism.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Polymorphism/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Polymorphism/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeatures.Polymorphism/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeatures.Polymorphism/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeaturesEx1/obj/AdvancedFeaturesEx1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeaturesEx1/obj/AdvancedFeaturesEx1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeaturesEx1/obj/Debug/net6.0/AdvancedFeaturesEx1.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeaturesEx1/obj/Debug/net6.0/AdvancedFeaturesEx1.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeaturesEx1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeaturesEx1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeaturesEx1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeaturesEx1/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/FileContentIndex/0f47cec5-031a-4201-94e8-9106558d17b5.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/FileContentIndex/65be1058-861f-42e8-be28-578976effe2d.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/FileContentIndex/9d94e553-70c4-4506-80e7-09ab624fe4fe.vsidx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/FileContentIndex/b6f34018-92ae-4b09-a1be-ccba8ec7237c.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/FileContentIndex/8f609e60-e6f3-464d-a4d9-29fdb5167eae.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/FileContentIndex/976a7a09-b398-4242-b66a-98f8447ee0ac.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/FileContentIndex/b5d44ff8-5560-4a4a-8150-d2d46f86814f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/FileContentIndex/c5aad97e-e11c-4e49-9aa3-a4f82eb11adf.vsidx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/v17/.futdcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/AdvancedFeaturesPresentation/v17/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/advancedfeaturespresentation.metadata.v5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/advancedfeaturespresentation.projects.v5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdvancedFeaturesPresentation.sln" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedFeaturesPresentation.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/AdvancedFeaturesPresentation.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/AdvancedFeaturesPresentation.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/AdvancedFeaturesPresentation.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/AdvancedFeaturesPresentation.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeaturesSubclasses/obj/AdvancedFeaturesSubclasses.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeaturesSubclasses/obj/AdvancedFeaturesSubclasses.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeaturesSubclasses/obj/Debug/net6.0/AdvancedFeaturesSubclasses.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeaturesSubclasses/obj/Debug/net6.0/AdvancedFeaturesSubclasses.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeaturesSubclasses/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeaturesSubclasses/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdvancedFeaturesSubclasses/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../AdvancedFeaturesSubclasses/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EngineExercise/obj/Debug/net6.0/EngineExercise.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../EngineExercise/obj/Debug/net6.0/EngineExercise.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EngineExercise/obj/EngineExercise.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../EngineExercise/obj/EngineExercise.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EngineExercise/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../EngineExercise/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../EngineExercise/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../EngineExercise/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/advancedfeaturespresentation.metadata.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/advancedfeaturespresentation.metadata.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/advancedfeaturespresentation.projects.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/advancedfeaturespresentation.projects.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShowRoomExercise(HW)/bin/Debug/net6.0/ShowRoomExercise(HW).dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ShowRoomExercise(HW)/bin/Debug/net6.0/ShowRoomExercise(HW).dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShowRoomExercise(HW)/bin/Debug/net6.0/ShowRoomExercise(HW).pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ShowRoomExercise(HW)/bin/Debug/net6.0/ShowRoomExercise(HW).pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/Debug/net6.0/ShowRoomExercise(HW).csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/Debug/net6.0/ShowRoomExercise(HW).csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/ShowRoomExercise(HW).csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/ShowRoomExercise(HW).csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/Debug/net6.0/ShowRoomExercise(HW).dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/Debug/net6.0/ShowRoomExercise(HW).dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/Debug/net6.0/ShowRoomExercise(HW).pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ShowRoomExercise(HW)/obj/Debug/net6.0/ShowRoomExercise(HW).pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentsExercise/bin/Debug/net6.0/StudentsExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentsExercise/bin/Debug/net6.0/StudentsExercise.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentsExercise/bin/Debug/net6.0/StudentsExercise.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentsExercise/bin/Debug/net6.0/StudentsExercise.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentsExercise/obj/Debug/net6.0/StudentsExercise.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentsExercise/obj/Debug/net6.0/StudentsExercise.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudentsExercise/obj/Debug/net6.0/StudentsExercise.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../StudentsExercise/obj/Debug/net6.0/StudentsExercise.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/obj/Debug/net6.0/Test.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/obj/Debug/net6.0/Test.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Advanc.Featu.Extra.Exercise/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2ExBRyMgtodjoPW1s0TdAihmLV1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -74,6 +57,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -289,6 +273,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663527353676</updated>
       <workItem from="1663527381836" duration="84000" />
+      <workItem from="1665689633633" duration="81000" />
     </task>
     <servers />
   </component>

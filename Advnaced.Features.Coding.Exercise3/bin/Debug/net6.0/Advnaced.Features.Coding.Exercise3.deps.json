@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Advnaced.Features.Coding.Exercise3/1.0.0": {
+        "dependencies": {
+          "Advanced.Features.Coding.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Advnaced.Features.Coding.Exercise3.dll": {}
+        }
+      },
+      "Advanced.Features.Coding.Shared/1.0.0": {
+        "runtime": {
+          "Advanced.Features.Coding.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advnaced.Features.Coding.Exercise3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Advanced.Features.Coding.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

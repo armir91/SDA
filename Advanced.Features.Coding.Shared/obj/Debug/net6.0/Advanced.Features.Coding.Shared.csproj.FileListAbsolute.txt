@@ -1,0 +1,12 @@
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\bin\Debug\net6.0\Advanced.Features.Coding.Shared.deps.json
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\bin\Debug\net6.0\Advanced.Features.Coding.Shared.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\bin\Debug\net6.0\Advanced.Features.Coding.Shared.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\obj\Debug\net6.0\Advanced.Features.Coding.Shared.csproj.AssemblyReference.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\obj\Debug\net6.0\Advanced.Features.Coding.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\obj\Debug\net6.0\Advanced.Features.Coding.Shared.AssemblyInfoInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\obj\Debug\net6.0\Advanced.Features.Coding.Shared.AssemblyInfo.cs
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\obj\Debug\net6.0\Advanced.Features.Coding.Shared.csproj.CoreCompileInputs.cache
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\obj\Debug\net6.0\Advanced.Features.Coding.Shared.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\obj\Debug\net6.0\refint\Advanced.Features.Coding.Shared.dll
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\obj\Debug\net6.0\Advanced.Features.Coding.Shared.pdb
+C:\Users\armir\Desktop\sdaProjects\SDA Advanced features\Advanced.Features.Coding.Shared\obj\Debug\net6.0\ref\Advanced.Features.Coding.Shared.dll

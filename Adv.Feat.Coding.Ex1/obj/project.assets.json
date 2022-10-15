@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Advanced.Features.Coding.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Advanced.Features.Coding.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Advanced.Features.Coding.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advanced.Features.Coding.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Advanced.Features.Coding.Shared/Advanced.Features.Coding.Shared.csproj",
+      "msbuildProject": "../Advanced.Features.Coding.Shared/Advanced.Features.Coding.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Advanced.Features.Coding.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\armir\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Adv.Feat.Coding.Ex1\\Adv.Feat.Coding.Ex1.csproj",
+      "projectName": "Adv.Feat.Coding.Ex1",
+      "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Adv.Feat.Coding.Ex1\\Adv.Feat.Coding.Ex1.csproj",
+      "packagesPath": "C:\\Users\\armir\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Adv.Feat.Coding.Ex1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\armir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Advanced.Features.Coding.Shared\\Advanced.Features.Coding.Shared.csproj": {
+              "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Advanced.Features.Coding.Shared\\Advanced.Features.Coding.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
