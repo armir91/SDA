@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "T44WSZjXqHT9sk5J6QYfsxU6wofJmd+y7mP9apfhOT3n7IQxCIRVOvXpL2tRM26NyRwJpoZlqMIFYms1eT6dKg==",
-  "success": true,
+  "dgSpecHash": "hNbfVap4+VJWqlMTgMEK8MJMTG4fdcqrFOypuTQ9OrZOhov6QeaQk+L2sCXghBYAErvjd8Z6tDbPut8z6Vs+Ig==",
+  "success": false,
   "projectFilePath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Adv.Feat.Coding.Ex1\\Advnaced.Features.Coding.Exercise1.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1108",
+      "level": "Error",
+      "message": "Cycle detected. \r\n  Advnaced.Features.Coding.Exercise1 -> Advanced.Features.Coding.Tests -> Advanced.Features.Coding.Tests.",
+      "libraryId": "Advanced.Features.Coding.Tests",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

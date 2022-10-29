@@ -67,10 +67,10 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Advanced.Features.Coding.Shared\\Advanced.Features.Coding.Shared.csproj",
-        "projectName": "Advanced.Features.Coding.Shared",
+        "projectName": "Advanced.Features.Coding.Tests",
         "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Advanced.Features.Coding.Shared\\Advanced.Features.Coding.Shared.csproj",
         "packagesPath": "C:\\Users\\armir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Advanced.Features.Coding.Shared\\obj\\",
+        "outputPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Advanced.Features.Coding.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\armir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,7 +86,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Advanced.Features.Coding.Shared\\Advanced.Features.Coding.Shared.csproj": {
+                "projectPath": "C:\\Users\\armir\\Desktop\\sdaProjects\\SDA Advanced features\\Advanced.Features.Coding.Shared\\Advanced.Features.Coding.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
